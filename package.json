@@ -1,6 +1,6 @@
 {
   "name": "minic-electron-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "scripts": {
     "serve": "vue-cli-service serve --mode production",
